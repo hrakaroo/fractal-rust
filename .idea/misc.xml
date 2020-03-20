@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/code/scala/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/code/scala/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/code/scala/recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
